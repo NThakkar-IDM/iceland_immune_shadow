@@ -5,4 +5,4 @@ This is a repository with data and Python code pertaining to the paper *Comment 
 
 The directory `_data` contains Iceland's measles incidence data (from A. Cliff, P. Hagget, J. Ord, and G. Versay, *Spatial diffusion: an historical geography of epidemics in an island community*, 1981), population, and mortality data (both from <https://www.statice.is/> accessed February 2018). 
 
-Scripts contained in the repository reproduce the analysis associated with Figure 1 of the comment.
+Scripts contained in the repository reproduce the analysis of the Iceland data presented in the comment.
